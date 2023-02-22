@@ -1,0 +1,36 @@
+{
+    "post":[
+        {
+            "id": 1,
+            "Image": "https://lmsin.net/cdn-cgi/image/h=493,w=333,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011592639-Purple-Lavender-1000011592639_01-2100.jpg",
+            "Strike Price": 899,
+            "Price": 1799,
+            "Name": "MELANGE Women Embroidered Straight Kurta",
+            "Rating": 4
+          },
+          {
+            "id": 2,
+            "Image": "https://lmsin.net/cdn-cgi/image/h=493,w=333,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011592639-Purple-Lavender-1000011592639_01-2100.jpg",
+            "Strike Price": 899,
+            "Price": 1799,
+            "Name": "MELANGE Women Embroidered Straight Kurta",
+            "Rating": 4
+          },
+          {
+            "id": 3,
+            "Image": "https://lmsin.net/cdn-cgi/image/h=493,w=333,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011592639-Purple-Lavender-1000011592639_01-2100.jpg",
+            "Strike Price": 899,
+            "Price": 1799,
+            "Name": "MELANGE Women Embroidered Straight Kurta",
+            "Rating": 4
+          },
+          {
+            "id": 5,
+            "Image": "https://lmsin.net/cdn-cgi/image/h=493,w=333,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011592639-Purple-Lavender-1000011592639_01-2100.jpg",
+            "Strike Price": 899,
+            "Price": 1799,
+            "Name": "MELANGE Women Embroidered Straight Kurta",
+            "Rating": 4
+          }
+    ]
+}
